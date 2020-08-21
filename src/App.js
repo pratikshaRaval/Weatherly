@@ -4,7 +4,7 @@ import Title from './components/Title';
 import Form from './components/Form'
 import Weather from './components/Weather';
 
-const API_Key = "da2754b990145d9b52b7e89aecabf88a";
+const API_Key = "##############"; //Get your own API key from openweathermap.org 
 
 class App extends React.Component {
 
